@@ -1,0 +1,16 @@
+<script>
+
+// API URL
+const apiURL = 'https://api.github.com/repos/immarisabel/immarisabel/contents/bookshelf/My%20Bookshelf%209fdd9804416340079e8b0f24e0860243.csv';
+
+// Make GET request to the API
+fetch(apiURL)
+  .then(response => response.json())
+  .then(data => {
+    // Retrieve the content and decode from Base64
+    const content = atob(data.content);
+    console.log(content);
+  })
+  .catch(error => console.log('Error:', error));
+
+</script>
