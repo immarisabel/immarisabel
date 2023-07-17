@@ -1,0 +1,23 @@
+{
+  "title": "The Mysterious Island",
+  "author": "Jules Verne",
+  "publication_year": 1874,
+  "genre": "Adventure",
+  "logs": [
+    {
+      "date": "2023-07-01",
+      "page_number": 50,
+      "notes": "The story is getting interesting. The characters have just landed on the island, and I can't wait to see what adventures await them!"
+    },
+    {
+      "date": "2023-07-05",
+      "page_number": 120,
+      "notes": "The group has discovered a hidden cave. It's exciting to explore the mysteries of the island along with the characters."
+    },
+    {
+      "date": "2023-07-10",
+      "page_number": 200,
+      "notes": "I had to stop reading for a few days due to work, but I'm back to it now. The book continues to captivate me, and I can't wait to find out more about the island's secrets."
+    }
+  ]
+}
