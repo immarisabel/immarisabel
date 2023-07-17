@@ -8,10 +8,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "audiobook",
-   "Date Finished": "February 15, 2022",
-   "Date Started": "February 12, 2022",
+   "Date Finished": "15-Feb-22",
+   "Date Started": "12-Feb-22",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The many lives of Heloise Starchild",
@@ -22,10 +23,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "March 18, 2022",
-   "Date Started": "March 15, 2022",
+   "Date Finished": "18-Mar-22",
+   "Date Started": "15-Mar-22",
    "notes": "♥",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Great North Road",
@@ -37,9 +39,10 @@
    "Language": "EN",
    "Origin": "owned",
    "Date Finished": "",
-   "Date Started": "February 19, 2022",
+   "Date Started": "19-Feb-22",
    "notes": "slow reading",
-   "Link": "https://www.goodreads.com/book/show/13573419-great-north-road"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Pull of the Stars",
@@ -50,10 +53,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "March 11, 2022",
-   "Date Started": "March 1, 2022",
+   "Date Finished": "11-Mar-22",
+   "Date Started": "1-Mar-22",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Sound of Stars",
@@ -64,10 +68,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "March 26, 2022",
-   "Date Started": "March 5, 2022",
+   "Date Finished": "26-Mar-22",
+   "Date Started": "5-Mar-22",
    "notes": "Hyper cringy, overly cheesy. 🤮",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Paradox Hotel",
@@ -78,10 +83,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "audiobook",
-   "Date Finished": "March 8, 2022",
-   "Date Started": "February 28, 2022",
+   "Date Finished": "8-Mar-22",
+   "Date Started": "28-Feb-22",
    "notes": "",
-   "Link": "https://www.goodreads.com/book/show/59547855-the-paradox-hotel"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Humans",
@@ -92,10 +98,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "audiobook",
-   "Date Finished": "February 24, 2022",
-   "Date Started": "February 20, 2022",
+   "Date Finished": "24-Feb-22",
+   "Date Started": "20-Feb-22",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Shards of Earth",
@@ -106,10 +113,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "February 16, 2022",
-   "Date Started": "January 21, 2022",
+   "Date Finished": "16-Feb-22",
+   "Date Started": "21-Jan-22",
    "notes": "",
-   "Link": "https://www.goodreads.com/series/305076-the-final-architecture"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Lucid Dreaming: Gateway to the Inner Self",
@@ -120,10 +128,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "May 31, 2021",
-   "Date Started": "May 10, 2021",
+   "Date Finished": "31-May-21",
+   "Date Started": "10-May-21",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "De coders",
@@ -134,10 +143,11 @@
    "status": "5. finished",
    "Language": "NL",
    "Origin": "library",
-   "Date Finished": "January 20, 2021",
-   "Date Started": "November 1, 2020",
+   "Date Finished": "20-Jan-21",
+   "Date Started": "1-Nov-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Toen God een Konijn Was",
@@ -148,10 +158,11 @@
    "status": "5. finished",
    "Language": "NL",
    "Origin": "library",
-   "Date Finished": "February 15, 2021",
-   "Date Started": "January 31, 2021",
+   "Date Finished": "15-Feb-21",
+   "Date Started": "31-Jan-21",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Cage of Souls",
@@ -162,10 +173,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "August 7, 2021",
-   "Date Started": "June 18, 2021",
+   "Date Finished": "7-Aug-21",
+   "Date Started": "18-Jun-21",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Ball Lightning",
@@ -176,13 +188,14 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "August 6, 2021",
-   "Date Started": "July 8, 2021",
+   "Date Finished": "6-Aug-21",
+   "Date Started": "8-Jul-21",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
-   "Name": "The Long Way to a Small, Angry Planet\n",
+   "Name": "The Long Way to a Small, Angry Planet",
    "Author": "Becky Chambers",
    "Genre": "👽 SciFi",
    "Length": 404,
@@ -190,10 +203,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "August 23, 2021",
-   "Date Started": "August 16, 2021",
+   "Date Finished": "23-Aug-21",
+   "Date Started": "16-Aug-21",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "That Time I Got Reincarnated as a Slime, Vol. 9",
@@ -204,10 +218,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "October 27, 2021",
-   "Date Started": "October 16, 2021",
+   "Date Finished": "27-Oct-21",
+   "Date Started": "16-Oct-21",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "That Time I Got Reincarnated as a Slime, Vol. 8",
@@ -218,10 +233,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "October 16, 2021",
-   "Date Started": "October 12, 2021",
+   "Date Finished": "16-Oct-21",
+   "Date Started": "12-Oct-21",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "That Time I Got Reincarnated as a Slime, Vol. 7",
@@ -232,10 +248,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "October 5, 2021",
-   "Date Started": "September 26, 2021",
+   "Date Finished": "5-Oct-21",
+   "Date Started": "26-Sep-21",
    "notes": "107K words, officially 350 pages, but for some reason ebook is 730...",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "A Flicker in the Dark",
@@ -246,10 +263,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "audiobook",
-   "Date Finished": "February 10, 2022",
-   "Date Started": "February 7, 2022",
+   "Date Finished": "10-Feb-22",
+   "Date Started": "7-Feb-22",
    "notes": "** spoiler alert ** I knew it! Since page one. This is why I don't read these kind of books. It was entertaining. But predictable.",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Station Eleven",
@@ -260,10 +278,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "owned",
-   "Date Finished": "January 20, 2022",
-   "Date Started": "December 7, 2021",
+   "Date Finished": "20-Jan-22",
+   "Date Started": "7-Dec-21",
    "notes": "Re-read (first read was 2015)",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Children of Ruin (Children of Time #2)",
@@ -274,10 +293,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "March 6, 2020",
-   "Date Started": "December 2, 2019",
+   "Date Finished": "6-Mar-20",
+   "Date Started": "2-Dec-19",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Pirates of Venus (Venus, #1)",
@@ -288,10 +308,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "April 13, 2020",
-   "Date Started": "April 11, 2020",
+   "Date Finished": "13-Apr-20",
+   "Date Started": "11-Apr-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Lost on Venus (Venus, #2)",
@@ -302,10 +323,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "April 25, 2020",
-   "Date Started": "April 19, 2020",
+   "Date Finished": "25-Apr-20",
+   "Date Started": "19-Apr-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Carson of Venus (Venus, #3)",
@@ -316,10 +338,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "April 27, 2020",
-   "Date Started": "April 26, 2020",
+   "Date Finished": "27-Apr-20",
+   "Date Started": "26-Apr-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Howl's Moving Castle (HMC #1)",
@@ -330,10 +353,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "April 19, 2020",
-   "Date Started": "April 13, 2020",
+   "Date Finished": "19-Apr-20",
+   "Date Started": "13-Apr-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The School of Life: An Emotional Education",
@@ -344,10 +368,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "owned",
-   "Date Finished": "May 5, 2020",
-   "Date Started": "April 22, 2020",
+   "Date Finished": "5-May-20",
+   "Date Started": "22-Apr-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Wool (Silo #1)",
@@ -358,10 +383,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "May 2, 2020",
-   "Date Started": "April 25, 2020",
+   "Date Finished": "2-May-20",
+   "Date Started": "25-Apr-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Luminaries",
@@ -372,10 +398,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "owned",
-   "Date Finished": "May 14, 2020",
-   "Date Started": "May 3, 2020",
+   "Date Finished": "14-May-20",
+   "Date Started": "3-May-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Doll Factory",
@@ -386,10 +413,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "owned",
-   "Date Finished": "May 16, 2020",
-   "Date Started": "May 15, 2020",
+   "Date Finished": "16-May-20",
+   "Date Started": "15-May-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Labyrinth (Languedoc #1)",
@@ -400,10 +428,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "owned",
-   "Date Finished": "May 19, 2020",
-   "Date Started": "May 16, 2020",
+   "Date Finished": "19-May-20",
+   "Date Started": "16-May-20",
    "notes": "NTF",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Incarnations",
@@ -414,10 +443,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "owned",
-   "Date Finished": "May 20, 2020",
-   "Date Started": "May 19, 2020",
+   "Date Finished": "20-May-20",
+   "Date Started": "19-May-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Calculating Stars",
@@ -428,10 +458,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "May 28, 2020",
-   "Date Started": "May 22, 2020",
+   "Date Finished": "28-May-20",
+   "Date Started": "22-May-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Mermaid and Mrs. Hancock",
@@ -442,10 +473,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "June 9, 2020",
-   "Date Started": "May 29, 2020",
+   "Date Finished": "9-Jun-20",
+   "Date Started": "29-May-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Oneness With All Life",
@@ -456,10 +488,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "June 9, 2020",
-   "Date Started": "June 1, 2020",
+   "Date Finished": "9-Jun-20",
+   "Date Started": "1-Jun-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Gateways to Now",
@@ -470,10 +503,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "audiobook",
-   "Date Finished": "June 3, 2020",
-   "Date Started": "June 3, 2020",
+   "Date Finished": "3-Jun-20",
+   "Date Started": "3-Jun-20",
    "notes": "60 minutes",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Awakening in the Dream: Contact with the Divine",
@@ -484,10 +518,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "June 21, 2020",
-   "Date Started": "June 11, 2020",
+   "Date Finished": "21-Jun-20",
+   "Date Started": "11-Jun-20",
    "notes": "reminder not to buy any of his books again.",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Conscious Luck",
@@ -498,10 +533,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "July 11, 2020",
-   "Date Started": "July 10, 2020",
+   "Date Finished": "11-Jul-20",
+   "Date Started": "10-Jul-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Salvation (Salvation Sequence #1)",
@@ -512,24 +548,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "July 17, 2020",
-   "Date Started": "July 17, 2020",
+   "Date Finished": "17-Jul-20",
+   "Date Started": "17-Jul-20",
    "notes": "",
-   "Link": ""
- },
- {
-   "Name": "https://www.youtube.com/watch?v=XQ8NkaUUEmc&t=4898s",
-   "Author": "Neale Donald Walsch",
-   "Genre": "👻 Metaphysical",
-   "Length": 183,
-   "Rating": "⭐️⭐️⭐️⭐️⭐️",
-   "status": "5. finished",
-   "Language": "EN",
-   "Origin": "audiobook",
-   "Date Finished": "August 11, 2020",
-   "Date Started": "August 6, 2020",
-   "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Too Much and Never Enough",
@@ -540,10 +563,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "September 2, 2020",
-   "Date Started": "August 11, 2020",
+   "Date Finished": "2-Sep-20",
+   "Date Started": "11-Aug-20",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Dreamers",
@@ -554,10 +578,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "audiobook",
-   "Date Finished": "February 18, 2022",
-   "Date Started": "February 16, 2022",
+   "Date Finished": "18-Feb-22",
+   "Date Started": "16-Feb-22",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "To Sleep in a Sea of Stars",
@@ -569,9 +594,10 @@
    "Language": "EN",
    "Origin": "library",
    "Date Finished": "",
-   "Date Started": "April 18, 2022",
+   "Date Started": "18-Apr-22",
    "notes": "restarting with audiobook in english, listens better than read",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Salvation Lost (Salvation Sequence #2)",
@@ -585,7 +611,8 @@
    "Date Finished": "",
    "Date Started": "",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Seveneves ",
@@ -596,10 +623,11 @@
    "status": "4. to start again",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "December 29, 2021",
-   "Date Started": "November 28, 2021",
+   "Date Finished": "29-Dec-21",
+   "Date Started": "28-Nov-21",
    "notes": "NTF",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "That Time I Got Reincarnated as a Slime Light Novels, Vol. 10",
@@ -611,9 +639,10 @@
    "Language": "EN",
    "Origin": "ebook",
    "Date Finished": "",
-   "Date Started": "October 27, 2021",
+   "Date Started": "27-Oct-21",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Inner Engineering",
@@ -625,9 +654,10 @@
    "Language": "EN",
    "Origin": "ebook",
    "Date Finished": "",
-   "Date Started": "March 8, 2021",
+   "Date Started": "8-Mar-21",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Algorithms to Live By",
@@ -641,7 +671,8 @@
    "Date Finished": "",
    "Date Started": "",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Hotel Lonely Hear",
@@ -655,7 +686,8 @@
    "Date Finished": "",
    "Date Started": "",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Reality Transurfing",
@@ -667,9 +699,10 @@
    "Language": "EN",
    "Origin": "ebook",
    "Date Finished": "",
-   "Date Started": "July 22, 2020",
+   "Date Started": "22-Jul-20",
    "notes": "Can’t find the other half",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Fifth Season (The Broken Earth, #1)",
@@ -681,23 +714,10 @@
    "Language": "EN",
    "Origin": "library",
    "Date Finished": "",
-   "Date Started": "September 27, 2020",
+   "Date Started": "27-Sep-20",
    "notes": "not sure why I stopped",
-   "Link": ""
- },
- {
-   "Name": "",
-   "Author": "",
-   "Genre": "",
-   "Length": null,
-   "Rating": "",
-   "status": "",
-   "Language": "",
-   "Origin": "",
-   "Date Finished": "",
-   "Date Started": "",
-   "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Girl Who Fell Beneath the Sea",
@@ -708,10 +728,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "audiobook",
-   "Date Finished": "March 21, 2022",
-   "Date Started": "March 16, 2022",
+   "Date Finished": "21-Mar-22",
+   "Date Started": "16-Mar-22",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Invisible Life of Addie LaRue",
@@ -722,10 +743,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "March 28, 2022",
-   "Date Started": "March 13, 2022",
+   "Date Finished": "28-Mar-22",
+   "Date Started": "13-Mar-22",
    "notes": "",
-   "Link": "https://www.goodreads.com/book/show/51029810-the-invisible-life-of-addie-larue"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Starless Sea",
@@ -736,10 +758,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "audiobook",
-   "Date Finished": "April 1, 2022",
-   "Date Started": "March 26, 2022",
+   "Date Finished": "1-Apr-22",
+   "Date Started": "26-Mar-22",
    "notes": "NTF",
-   "Link": "https://www.goodreads.com/book/show/43575115-the-starless-sea?from_search=true&from_srp=true&qid=yr5cqyNLVT&rank=1"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Cloud Cuckoo Land",
@@ -750,10 +773,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "April 3, 2022",
-   "Date Started": "March 29, 2022",
+   "Date Finished": "3-Apr-22",
+   "Date Started": "29-Mar-22",
    "notes": "",
-   "Link": "https://www.goodreads.com/book/show/56783258-cloud-cuckoo-land?ac=1&from_search=true&qid=xDDKenEYYE&rank=4"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Long War",
@@ -764,10 +788,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "audiobook",
-   "Date Finished": "April 15, 2022",
-   "Date Started": "April 2, 2022",
+   "Date Finished": "15-Apr-22",
+   "Date Started": "2-Apr-22",
    "notes": "interesting but plotless...",
-   "Link": "https://www.goodreads.com/book/show/17167572-the-long-war"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Seven Husbands of Evelyn Hugo",
@@ -778,10 +803,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "April 9, 2022",
-   "Date Started": "April 7, 2022",
+   "Date Finished": "9-Apr-22",
+   "Date Started": "7-Apr-22",
    "notes": "What a sad ending, yet beautiful, to be the last. To spear your loved ones from your absence.",
-   "Link": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Project Hail Mary",
@@ -792,10 +818,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "April 16, 2022",
-   "Date Started": "April 10, 2022",
+   "Date Finished": "16-Apr-22",
+   "Date Started": "10-Apr-22",
    "notes": "Love love love the characters soooo much! ALL!",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Dear Emmi Blue",
@@ -806,10 +833,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "April 19, 2022",
-   "Date Started": "April 18, 2022",
+   "Date Finished": "19-Apr-22",
+   "Date Started": "18-Apr-22",
    "notes": "my heart went puff with this book 🥰",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Love Lettering",
@@ -820,10 +848,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "April 23, 2022",
-   "Date Started": "April 22, 2022",
+   "Date Finished": "23-Apr-22",
+   "Date Started": "22-Apr-22",
    "notes": "Too much text about her feelings. It was well done, but not what I like.",
-   "Link": "https://www.goodreads.com/book/show/44792512-love-lettering"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Zin",
@@ -834,10 +863,11 @@
    "status": "5. finished",
    "Language": "NL",
    "Origin": "library",
-   "Date Finished": "May 5, 2022",
-   "Date Started": "April 23, 2022",
+   "Date Finished": "5-May-22",
+   "Date Started": "23-Apr-22",
    "notes": "last 4th of the book got repetitive. the rest highly entertaining.",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Eyes of the Void",
@@ -851,10 +881,11 @@
    "Date Finished": "",
    "Date Started": "",
    "notes": "release May 3 2022",
-   "Link": "https://www.goodreads.com/book/show/58950674-eyes-of-the-void"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
-   "Name": "https://www.goodreads.com/book/show/55987334-four-treasures-of-the-sky",
+   "Name": "Four Treasures Of The Sky",
    "Author": "Jenny Tinghui Zhang",
    "Genre": "⏳ Historical Fiction",
    "Length": 336,
@@ -865,10 +896,11 @@
    "Date Finished": "",
    "Date Started": "",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
-   "Name": "https://www.goodreads.com/book/show/56614597-gilded",
+   "Name": "Gilded",
    "Author": "Marissa Meyer",
    "Genre": "🔮 Fantasy",
    "Length": 502,
@@ -879,7 +911,8 @@
    "Date Finished": "",
    "Date Started": "",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "A House Between Earth and the Moon",
@@ -893,7 +926,8 @@
    "Date Finished": "",
    "Date Started": "",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The No-Show",
@@ -907,7 +941,8 @@
    "Date Finished": "",
    "Date Started": "",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "The Note",
@@ -918,10 +953,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "library",
-   "Date Finished": "May 16, 2022",
-   "Date Started": "May 15, 2022",
+   "Date Finished": "16-May-22",
+   "Date Started": "15-May-22",
    "notes": "",
-   "Link": "https://www.goodreads.com/book/show/35648195-the-note"
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Pachinko",
@@ -932,10 +968,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "owned",
-   "Date Finished": "June 30, 2022",
-   "Date Started": "June 21, 2022",
+   "Date Finished": "30-Jun-22",
+   "Date Started": "21-Jun-22",
    "notes": "I enjoyed it, except the last chapters… they were dry.",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "World Engines: Destroyer",
@@ -946,13 +983,14 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "August 1, 2022",
-   "Date Started": "July 19, 2022",
+   "Date Finished": "1-Aug-22",
+   "Date Started": "19-Jul-22",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
-   "Name": "Eyes of the Void\nhttps://www.goodreads.com/series/305076-the-final-architecture2)",
+   "Name": "Eyes of the Void",
    "Author": "Adrian Tchaikovsky",
    "Genre": "👽 SciFi",
    "Length": 609,
@@ -961,9 +999,10 @@
    "Language": "EN",
    "Origin": "ebook",
    "Date Finished": "",
-   "Date Started": "January 2, 2022",
+   "Date Started": "2-Jan-22",
    "notes": "",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "Children of Memory(Children of Time #3)",
@@ -974,10 +1013,11 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "June 1, 2023",
-   "Date Started": "January 1, 2023",
+   "Date Finished": "1-Jun-23",
+   "Date Started": "1-Jan-23",
    "notes": "The way the character was as confused as I was until the end where it makes sense and it was all on purpose. MindBlown",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  },
  {
    "Name": "A Cat Cafe Christmas ",
@@ -988,9 +1028,10 @@
    "status": "5. finished",
    "Language": "EN",
    "Origin": "ebook",
-   "Date Finished": "July 4, 2023",
-   "Date Started": "June 21, 2023",
+   "Date Finished": "4-Jul-23",
+   "Date Started": "21-Jun-23",
    "notes": "Sweet. Made me want cats but I'm allergic 😔",
-   "Link": ""
+   "ISBN": "",
+   "Review Link": ""
  }
 ]
