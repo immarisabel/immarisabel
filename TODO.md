@@ -1,5 +1,5 @@
 ### currently
-📖 Diaspora by Greg Edan
+📖 Diaspora by Greg Egan
 
 🌴 On holidays
 
