@@ -1,3 +1,8 @@
+### currently
+📖 Diaspora by Greg Edan
+🌴 On holidays
+👩‍💻 Expenses Tracker web app and PixieSort picture organizer desktop app
+
 ### tasks
 - [ ] clean up my wordpress theme to share in github
 - [ ] review all my old posts to set as public collected on my personal blog
