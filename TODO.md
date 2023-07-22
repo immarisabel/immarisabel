@@ -1,6 +1,8 @@
 ### currently
 📖 Diaspora by Greg Edan
+
 🌴 On holidays
+
 👩‍💻 Expenses Tracker web app and PixieSort picture organizer desktop app
 
 ### tasks
