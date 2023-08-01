@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-indieweb.social/immarisabel
+https://indieweb.social/immarisabel
 
 https://marisabel.nl <- tech blog
 
