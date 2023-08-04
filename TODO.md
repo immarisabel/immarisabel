@@ -1,5 +1,4 @@
 ### currently
-📖 Diaspora by Greg Egan
 
 🌴 On holidays
 
@@ -11,4 +10,5 @@
 - [ ] organize and collect all my scattered RSS subs to the blog
 - [ ] post about my project
 - [x] add navigation map for accesibility
-- [ ] update the data of my library with the book links
+- [x] update the data of my library with the book links
+- [] update review links on books 
