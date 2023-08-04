@@ -11,4 +11,4 @@
 - [ ] post about my project
 - [x] add navigation map for accesibility
 - [x] update the data of my library with the book links
-- [] update review links on books 
+- [ ] update review links on books 
